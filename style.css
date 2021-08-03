@@ -1,0 +1,10 @@
+h1{color : darkblue}
+*{background-color:rgb(143, 202, 194)}
+.header{background-color :darkcyan;
+     display:flex;
+     justify-content : space-between;}
+.menu{justify-content:baseline ;}
+p{text-align: center;}
+.grid{ flex:flex-wrap; justify-content:flex-start;}
+
+
